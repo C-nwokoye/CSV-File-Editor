@@ -1,2 +1,2 @@
 # CSV-File-Editor
-Java interctove csv file editor
+Java interactive csv file editor
